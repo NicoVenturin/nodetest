@@ -1,0 +1,14 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "paquete",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicolas venturin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
